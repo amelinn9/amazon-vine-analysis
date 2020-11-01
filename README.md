@@ -1,7 +1,6 @@
 # Amazon Vine Analysis
 ## Overview
-
-
+The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. The purpose of this analysis is to analyse Amazon reviews written by members of the paid Amazon Vine program and determine if there is any bias toward favorable reviews from Vine members. The process will include picking an Amazon Vine dataset and using PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. PySpark was then used to determine if there is any bias toward favorable reviews from Vine members in the dataset.
 
 
 ## Results
@@ -16,6 +15,7 @@ There was a total of 40,565 reviews, with 94 Vine member reviews and 40,471 non-
 ### 5-Star Review Percentages
 <p align="center"><img src="resources/fivestar_percentage.png"></p>
 51.06% of Vine member reviews were 5 stars, while 38.70% of non-Vine member reviews were 5 stars.
+
 
 ## Summary
 ### Positivity Bias
