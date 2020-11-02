@@ -10,7 +10,7 @@ There was a total of 40,565 reviews, with 94 Vine member reviews and 40,471 non-
 
 ### 5-Star Reviews
 <p align="center"><img src="resources/fivestar_reviews.png"></p>
-There was a total of 40,565 reviews, with 94 Vine member reviews and 40,471 non-Vine member reviews.
+There was a total of 15,711 5-star reviews, with 48 5-star Vine member reviews and 15,663 5-star non-Vine member reviews.
 
 ### 5-Star Review Percentages
 <p align="center"><img src="resources/fivestar_percentage.png"></p>
